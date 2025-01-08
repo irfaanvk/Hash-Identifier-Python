@@ -27,7 +27,9 @@ A simple yet powerful Python-based tool designed to identify the type of hash fr
    git clone https://github.com/irfaanvk/Hash-Identifier-Python.git
    cd Hash-Identifier-Python
    
-   💡 Example
+
+
+💡 Example
 Input:
 Enter the hash: 5d41402abc4b2a76b9719d911017c592
 
