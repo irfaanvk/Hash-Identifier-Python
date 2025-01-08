@@ -26,3 +26,10 @@ A simple yet powerful Python-based tool designed to identify the type of hash fr
    ```bash
    git clone https://github.com/irfaanvk/Hash-Identifier-Python.git
    cd Hash-Identifier-Python
+   
+   💡 Example
+Input:
+Enter the hash: 5d41402abc4b2a76b9719d911017c592
+
+Output:
+The given hash matches the following types: MD5
