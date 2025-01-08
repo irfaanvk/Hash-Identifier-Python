@@ -26,7 +26,9 @@ A simple yet powerful Python-based tool designed to identify the type of hash fr
    ```bash
    git clone https://github.com/irfaanvk/Hash-Identifier-Python.git
    cd Hash-Identifier-Python
+
    
+run : python3 hash_identifier.py
 
 
 💡 Example
